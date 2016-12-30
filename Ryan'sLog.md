@@ -2,7 +2,7 @@
 
 Starting Day Jan 2, 2017
 
-/*### Day 0: February 30, 2016 (Example 1)
+<!--- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -11,3 +11,4 @@ Starting Day Jan 2, 2017
 
 **Link to work:** [Calculator App](http://www.example.com)
 */
+--!>
