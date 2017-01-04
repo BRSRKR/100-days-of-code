@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-Starting Day Jan 2, 2017
+Starting Day Jan 3, 2017
 
 
 <!--
@@ -12,3 +12,8 @@ Starting Day Jan 2, 2017
 **Link to work:** [Calculator App](http://www.example.com)
 
 -->
+### Day 1: January 3, 2017 
+
+**Today's Progress**: Added basic structure to the Weather App. Figured out the getLocation function
+**Thoughts:** Need to get a better understanding up of to pull APIs. Been awhile since last working on Quoter API. Having trouble understanding all the pieces. 
+**Link to work:** [Weather App](http://codepen.io/ryanmbarger/pen/RoKbVd)
