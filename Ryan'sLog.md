@@ -19,3 +19,12 @@ Starting Day Jan 3, 2017
 **Thoughts:** Need to get a better understanding up of to pull APIs. Been awhile since last working on Quoter API. Having trouble understanding all the pieces. 
 
 **Link to work:** [Weather App](http://codepen.io/ryanmbarger/pen/RoKbVd)
+
+
+### Day 2: January 4, 2017 
+
+**Today's Progress**: I have the main portion for the OpenWeather API in the code.
+
+**Thoughts:** Was having trouble getting the lat and long to be implemented into the API. But now how about 90% of the api results working. Just need to understanding the $.ajax operator better.
+
+**Link to work:** [Weather App](http://codepen.io/ryanmbarger/pen/RoKbVd)
