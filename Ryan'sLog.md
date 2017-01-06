@@ -28,3 +28,12 @@ Starting Day Jan 3, 2017
 **Thoughts:** Was having trouble getting the lat and long to be implemented into the API. But now how about 90% of the api results working. Just need to understanding the $.ajax operator better.
 
 **Link to work:** [Weather App](http://codepen.io/ryanmbarger/pen/RoKbVd)
+
+
+### Day 3: January 5, 2017 
+
+**Today's Progress**: Got the API to pull weather data! 
+
+**Thoughts:** Need to modify a little more so it doesn't show full decimals. I got stuck initially around getting the icon to show. I didn't realize that the Object was inside an Array. After the little fix, pulled the icons in easily, though I would like to put a better icon set as the default icons from OpenWeatherAPI are not the greatest.
+
+**Link to work:** [Weather App](http://codepen.io/ryanmbarger/pen/RoKbVd)
