@@ -37,3 +37,13 @@ Starting Day Jan 3, 2017
 **Thoughts:** Need to modify a little more so it doesn't show full decimals. I got stuck initially around getting the icon to show. I didn't realize that the Object was inside an Array. After the little fix, pulled the icons in easily, though I would like to put a better icon set as the default icons from OpenWeatherAPI are not the greatest.
 
 **Link to work:** [Weather App](http://codepen.io/ryanmbarger/pen/RoKbVd)
+
+
+
+### Day 4: January 6, 2017 
+
+**Today's Progress**: Found a tutorial on adding a CSS Toggle. Used that template to modify and add to my project
+
+**Thoughts:** It appears that codepen.io is not utilizing the jquery normally as the .toggle() is not functioning properly. Need to investigate further.
+
+**Link to work:** [Weather App](http://codepen.io/ryanmbarger/pen/RoKbVd)
