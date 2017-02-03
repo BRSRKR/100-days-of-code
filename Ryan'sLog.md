@@ -58,3 +58,31 @@ After having to travel to North East for a close family members funeral, I am no
 **Thoughts:** Codepen will not allow the previous toggle to work. I am not sure if there is a setting I am missing, but when I copy the code out to another compiler it works. So I am using another tutorial, and trying to reverse engineer it so I can understnad it better.
 
 **Link to work:** [Weather App](http://codepen.io/ryanmbarger/pen/RoKbVd)
+
+
+### Day 6: January 31, 2017 
+
+
+**Today's Progress**: Toggle is up and working now with modifications for color.
+
+**Thoughts:** Toggle required a lot of code to get to work, but modifiying it was not to hard. Still need to fix so that it is inline with the F and C for temperature. But that is more cosmetic right now.
+
+**Link to work:** [Weather App](http://codepen.io/ryanmbarger/pen/RoKbVd)
+
+
+### Day 7: Febrary 1, 2017 
+
+**Today's Progress**: Trying to get toggle to change temperature when clicked, but I have not been able to get past this bug.
+
+**Thoughts:** Not sure what exactly is causing the onclick to not fuction properly. Reached out to group for guidance.
+
+**Link to work:** [Weather App](http://codepen.io/ryanmbarger/full/RoKbVd/)
+
+
+### Day 8: Febrary 2, 2017 
+
+**Today's Progress**: Fixed the toggle click! Now switches between Farenheit and Celsius.
+
+**Thoughts:** There were actually to issues. First I was using HTML's onclick funciton instead of the addEventListener function. Second, there was a function at the very top of my code that was continuing to fire and not allow the rest of the code to process. I commented that out and addEventListener function worked like a charm
+
+**Link to work:** [Weather App](http://codepen.io/ryanmbarger/full/RoKbVd/)
