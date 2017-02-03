@@ -51,7 +51,7 @@ Starting Day Jan 3, 2017
 
 ### Day 5: January 30, 2017 
 
-After having to travel to North East for a close family members funeral, I am not getting back in the swing of things and continuing my journey.
+After having to travel to North East for a close family members funeral, I am now getting back in the swing of things and continuing my journey.
 
 **Today's Progress**: Had some issues with the previous toggle. Reverse Engineering another Toggle
 
