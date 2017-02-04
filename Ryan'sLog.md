@@ -86,3 +86,10 @@ After having to travel to North East for a close family members funeral, I am no
 **Thoughts:** There were actually to issues. First I was using HTML's onclick funciton instead of the addEventListener function. Second, there was a function at the very top of my code that was continuing to fire and not allow the rest of the code to process. I commented that out and addEventListener function worked like a charm
 
 **Link to work:** [Weather App](http://codepen.io/ryanmbarger/full/RoKbVd/)
+
+
+### Day 9: Febrary 3, 2017 
+
+**Today's Progress**: Aligned the Toggle with the F and C. And made mobile responsive
+
+**Thoughts:** Weather App is function properly on desktop browser, but won't work on the mobile site. It does look good on mobile site though with responsiveness working great!
