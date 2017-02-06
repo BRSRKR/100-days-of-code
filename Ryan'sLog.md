@@ -93,3 +93,26 @@ After having to travel to North East for a close family members funeral, I am no
 **Today's Progress**: Aligned the Toggle with the F and C. And made mobile responsive
 
 **Thoughts:** Weather App is function properly on desktop browser, but won't work on the mobile site. It does look good on mobile site though with responsiveness working great!
+
+
+### Day 10: Febrary 4, 2017 
+
+**Today's Progress**: GeoLocation is working except for on some mobile browsers.
+
+**Thoughts:** GeoLocaiton is working OK, but is slow to respond from API.
+
+
+
+### Day 11: Febrary 5, 2017 
+
+**Today's Progress**: Switching to use IP Info instead of GeoLocation
+
+**Thoughts:** ipinfo.io's api is very fast. It also doesn't need any feedback from the user to fire off request. 
+
+
+### Day 12: Febrary 6, 2017 
+
+**Today's Progress**: Need to understand how Javascript is running through code. 
+
+**Thoughts:** ipinfo.io's api is working, but doesn' fire til after the Weather API code. Can' understand why yet, as Weather API is positioned below. Tried using window.onload and $(document).ready to try to get Weather API to wait.
+
