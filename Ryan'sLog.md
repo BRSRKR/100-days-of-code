@@ -12,13 +12,14 @@ Starting Day Jan 3, 2017
 **Link to work:** [Calculator App](http://www.example.com)
 
 -->
+
+**Link to work:** [Weather App](http://codepen.io/ryanmbarger/full/RoKbVd)
+
 ### Day 1: January 3, 2017 
 
 **Today's Progress**: Added basic structure to the Weather App. Figured out the getLocation function
 
 **Thoughts:** Need to get a better understanding up of to pull APIs. Been awhile since last working on Quoter API. Having trouble understanding all the pieces. 
-
-**Link to work:** [Weather App](http://codepen.io/ryanmbarger/pen/RoKbVd)
 
 
 ### Day 2: January 4, 2017 
@@ -27,7 +28,7 @@ Starting Day Jan 3, 2017
 
 **Thoughts:** Was having trouble getting the lat and long to be implemented into the API. But now how about 90% of the api results working. Just need to understanding the $.ajax operator better.
 
-**Link to work:** [Weather App](http://codepen.io/ryanmbarger/pen/RoKbVd)
+
 
 
 ### Day 3: January 5, 2017 
@@ -36,7 +37,6 @@ Starting Day Jan 3, 2017
 
 **Thoughts:** Need to modify a little more so it doesn't show full decimals. I got stuck initially around getting the icon to show. I didn't realize that the Object was inside an Array. After the little fix, pulled the icons in easily, though I would like to put a better icon set as the default icons from OpenWeatherAPI are not the greatest.
 
-**Link to work:** [Weather App](http://codepen.io/ryanmbarger/pen/RoKbVd)
 
 
 
@@ -46,7 +46,6 @@ Starting Day Jan 3, 2017
 
 **Thoughts:** It appears that codepen.io is not utilizing the jquery normally as the .toggle() is not functioning properly. Need to investigate further.
 
-**Link to work:** [Weather App](http://codepen.io/ryanmbarger/pen/RoKbVd)
 
 
 ### Day 5: January 30, 2017 
@@ -57,7 +56,6 @@ After having to travel to North East for a close family members funeral, I am no
 
 **Thoughts:** Codepen will not allow the previous toggle to work. I am not sure if there is a setting I am missing, but when I copy the code out to another compiler it works. So I am using another tutorial, and trying to reverse engineer it so I can understnad it better.
 
-**Link to work:** [Weather App](http://codepen.io/ryanmbarger/pen/RoKbVd)
 
 
 ### Day 6: January 31, 2017 
@@ -76,7 +74,6 @@ After having to travel to North East for a close family members funeral, I am no
 
 **Thoughts:** Not sure what exactly is causing the onclick to not fuction properly. Reached out to group for guidance.
 
-**Link to work:** [Weather App](http://codepen.io/ryanmbarger/full/RoKbVd/)
 
 
 ### Day 8: Febrary 2, 2017 
@@ -85,7 +82,6 @@ After having to travel to North East for a close family members funeral, I am no
 
 **Thoughts:** There were actually to issues. First I was using HTML's onclick funciton instead of the addEventListener function. Second, there was a function at the very top of my code that was continuing to fire and not allow the rest of the code to process. I commented that out and addEventListener function worked like a charm
 
-**Link to work:** [Weather App](http://codepen.io/ryanmbarger/full/RoKbVd/)
 
 
 ### Day 9: Febrary 3, 2017 
