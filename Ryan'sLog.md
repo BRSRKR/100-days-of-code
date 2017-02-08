@@ -116,3 +116,12 @@ After having to travel to North East for a close family members funeral, I am no
 
 **Thoughts:** ipinfo.io's api is working, but doesn' fire til after the Weather API code. Can' understand why yet, as Weather API is positioned below. Tried using window.onload and $(document).ready to try to get Weather API to wait.
 
+
+**Link to work:** [Wikipedia Viewer](http://codepen.io/ryanmbarger/full/jyvPEO)
+
+
+### Day 13: Febrary 7, 2017 
+
+**Today's Progress**: Took a Pause from Weather App. It was working except for Chrome on Mobile. Started preliminary layout for the Wikipedia Viewer 
+
+**Thoughts:** Getting odd error when using codepen. Won't show glyphicons on new pen, but when I forked an old pen and deleted everything glyphicons worked????
