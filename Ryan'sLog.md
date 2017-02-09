@@ -121,3 +121,17 @@ After having to travel to North East for a close family members funeral, I am no
 **Today's Progress**: Took a Pause from Weather App. It was working except for Chrome on Mobile. Started preliminary layout for the Wikipedia Viewer 
 
 **Thoughts:** Getting odd error when using codepen. Won't show glyphicons on new pen, but when I forked an old pen and deleted everything glyphicons worked????
+
+
+### Day 14: Febrary 8, 2017 
+
+**Today's Progress**: Moving along quickly with Wikipedia Viewer. Had to go find out how to setup GetSJON/Ajax call again :(
+
+**Thoughts:** Kept getting error when calling wiki api. Everything looks corret, and when I pull within browser URL it works.
+
+
+### Day 15: Febrary 9, 2017 
+
+**Today's Progress**: Used some more jQuery to push HTML .... appendTo() and empty(). Works very easy 90% complete
+
+**Thoughts:** Error yesterday was the api URL didn't have callback="?" put that in and JSON call was working like a charm.
