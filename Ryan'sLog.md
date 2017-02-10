@@ -68,7 +68,7 @@ After having to travel to North East for a close family members funeral, I am no
 **Link to work:** [Weather App](http://codepen.io/ryanmbarger/pen/RoKbVd)
 
 
-### Day 7: Febrary 1, 2017 
+### Day 7: February 1, 2017 
 
 **Today's Progress**: Trying to get toggle to change temperature when clicked, but I have not been able to get past this bug.
 
@@ -76,7 +76,7 @@ After having to travel to North East for a close family members funeral, I am no
 
 
 
-### Day 8: Febrary 2, 2017 
+### Day 8: February 2, 2017 
 
 **Today's Progress**: Fixed the toggle click! Now switches between Farenheit and Celsius.
 
@@ -84,14 +84,14 @@ After having to travel to North East for a close family members funeral, I am no
 
 
 
-### Day 9: Febrary 3, 2017 
+### Day 9: February 3, 2017 
 
 **Today's Progress**: Aligned the Toggle with the F and C. And made mobile responsive
 
 **Thoughts:** Weather App is function properly on desktop browser, but won't work on the mobile site. It does look good on mobile site though with responsiveness working great!
 
 
-### Day 10: Febrary 4, 2017 
+### Day 10: February 4, 2017 
 
 **Today's Progress**: GeoLocation is working except for on some mobile browsers.
 
@@ -106,7 +106,7 @@ After having to travel to North East for a close family members funeral, I am no
 **Thoughts:** ipinfo.io's api is very fast. It also doesn't need any feedback from the user to fire off request. 
 
 
-### Day 12: Febrary 6, 2017 
+### Day 12: February 6, 2017 
 
 **Today's Progress**: Need to understand how Javascript is running through code. 
 
@@ -116,22 +116,29 @@ After having to travel to North East for a close family members funeral, I am no
 **Link to work:** [Wikipedia Viewer](http://codepen.io/ryanmbarger/full/jyvPEO)
 
 
-### Day 13: Febrary 7, 2017 
+### Day 13: February 7, 2017 
 
 **Today's Progress**: Took a Pause from Weather App. It was working except for Chrome on Mobile. Started preliminary layout for the Wikipedia Viewer 
 
 **Thoughts:** Getting odd error when using codepen. Won't show glyphicons on new pen, but when I forked an old pen and deleted everything glyphicons worked????
 
 
-### Day 14: Febrary 8, 2017 
+### Day 14: February 8, 2017 
 
 **Today's Progress**: Moving along quickly with Wikipedia Viewer. Had to go find out how to setup GetSJON/Ajax call again :(
 
 **Thoughts:** Kept getting error when calling wiki api. Everything looks corret, and when I pull within browser URL it works.
 
 
-### Day 15: Febrary 9, 2017 
+### Day 15: February 9, 2017 
 
-**Today's Progress**: Used some more jQuery to push HTML .... appendTo() and empty(). Works very easy 90% complete
+**Today's Progress**: Used some more jQuery to push HTML .... appendTo() and empty(). Using JQuery was super easy. Now about 90% complete
 
 **Thoughts:** Error yesterday was the api URL didn't have callback="?" put that in and JSON call was working like a charm.
+
+
+### Day 16: February 10, 2017 
+
+**Today's Progress**: Added Functionality for hitting "enter" key to search in addtion to the clicking search. Also made search results on put of results returned. No more Undefined results
+
+**Thoughts:** Had to use trial and error until I found code to use the enter key as a click. (event.which?) need to understand why "Which"... Also used a for loop to out show up to 5 results and stop at 1 or 2 or 3 if data only had that many entries.
