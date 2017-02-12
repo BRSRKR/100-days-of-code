@@ -142,3 +142,8 @@ After having to travel to North East for a close family members funeral, I am no
 **Today's Progress**: Added Functionality for hitting "enter" key to search in addtion to the clicking search. Also made search results on put of results returned. No more Undefined results
 
 **Thoughts:** Had to use trial and error until I found code to use the enter key as a click. (event.which?) need to understand why "Which"... Also used a for loop to out show up to 5 results and stop at 1 or 2 or 3 if data only had that many entries.
+
+
+### Day 17: February 11, 2017 
+
+**Today's Progress**: Started with the basic layout for the Twitch App.
