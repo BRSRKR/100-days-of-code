@@ -147,3 +147,22 @@ After having to travel to North East for a close family members funeral, I am no
 ### Day 17: February 11, 2017 
 
 **Today's Progress**: Started with the basic layout for the Twitch App.
+
+
+### Day 18: February 16, 2017 
+
+**Today's Progress**: Setup the basic connection to the API.
+
+**Thoughts:** The API is getting data but I can't seem to get it to call multiples users.
+
+
+### Day 19: February 17, 2017 
+
+**Today's Progress**: Spent sometime changing the layout to get ready for the API data.
+
+
+### Day 20: February 19, 2017 
+
+**Today's Progress**: Finally figured out the hack that FreeCodeCamp had setup to prevent API keys didn't allow you to call multiple users at one time like the normal Twithc API. 
+
+**Thoughts:** I'm having to re-order my code to accomodate for multiple calls.
