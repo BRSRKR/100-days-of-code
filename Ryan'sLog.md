@@ -166,3 +166,30 @@ After having to travel to North East for a close family members funeral, I am no
 **Today's Progress**: Finally figured out the hack that FreeCodeCamp had setup to prevent API keys didn't allow you to call multiple users at one time like the normal Twithc API. 
 
 **Thoughts:** I'm having to re-order my code to accomodate for multiple calls.
+
+Time to re-start. Time to do better
+### Day 21: March 1st, 2017 
+
+**Today's Progress**: Trying to fix the issue I am having with the var i = 0 that is not working inside the getJSON function.
+
+**Thoughts:** Completely lost on this point.
+
+### Day 22: March 2nd, 2017 
+
+**Today's Progress**: Did a lot of research around scope of the var in the for loop
+
+**Thoughts:** Still don't understand the scope and function. Looking to the forums
+
+
+### Day 23: March 3rd, 2017 
+
+**Today's Progress**: Couldn't get my inital funciton to work using the "i" variable in the for loop. Used instead a global variable as a counter.
+
+**Thoughts:** Will need to go back and understand the scope better but figured a workaround for now.
+
+
+### Day 24: March 4th, 2017 
+
+**Today's Progress**: The getJSON is asynchronous. SO my function and second function is not firing at the correct time.  
+
+**Thoughts:** Argggghhhh.
