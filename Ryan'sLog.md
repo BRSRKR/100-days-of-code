@@ -193,3 +193,15 @@ Time to re-start. Time to do better
 **Today's Progress**: The getJSON is asynchronous. SO my function and second function is not firing at the correct time.  
 
 **Thoughts:** Argggghhhh.
+
+
+### Day 25: March 5th, 2017 
+
+**Today's Progress**: Tried swapping out the getJSON for a $.ajax, it is functioning in correct time, but now giving me just data for the first user every time.   
+
+
+### Day 26: March 6th, 2017 
+
+**Today's Progress**: Researching $.ajax calls to get my app to work. 
+
+**Thoughts:** Why!!!!
