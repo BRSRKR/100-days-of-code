@@ -205,3 +205,21 @@ Time to re-start. Time to do better
 **Today's Progress**: Researching $.ajax calls to get my app to work. 
 
 **Thoughts:** Why!!!!
+
+
+### Day 27: March 7th, 2017 
+
+**Today's Progress**: Got tired of working on the Javascript side. Wasn't liking the color/design. So am working to re-do that for now.
+
+
+### Day 28: March 8th, 2017 
+
+**Today's Progress**: Well I cracked an looked up a similar project on how he was using the .forEach to go through the array. 
+
+**Thoughts:**I need someone to fully explain, but looks like I was just missing a paramater in the function. userList.forEach(function(user){....
+
+
+### Day 29: March 9th, 2017 
+
+**Today's Progress**: Finishing up the redesign. Looks much more like a modern design. Unfortunately, I can't take credit for the design. I am trying to mimic another user design with some tweaks.
+
