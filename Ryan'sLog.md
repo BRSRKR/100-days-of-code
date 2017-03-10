@@ -223,3 +223,7 @@ Time to re-start. Time to do better
 
 **Today's Progress**: Finishing up the redesign. Looks much more like a modern design. Unfortunately, I can't take credit for the design. I am trying to mimic another user design with some tweaks.
 
+
+### Day 30: March 10th, 2017 
+
+**Today's Progress**: Add last bits to re-design and testing out the javascript again.
