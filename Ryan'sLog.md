@@ -227,3 +227,45 @@ Time to re-start. Time to do better
 ### Day 30: March 10th, 2017 
 
 **Today's Progress**: Add last bits to re-design and testing out the javascript again.
+
+
+### Day 31: March 11th, 2017 
+
+**Today's Progress**: Worked on Flexbox to have better responsiveness to the desing.
+
+
+### Day 32: March 14th, 2017 
+
+**Today's Progress**: Added the code for the status menu.
+
+**Thoughts:**: Surprisingly this required less code than expected. Just 3 click actions, and .show()/.hide() and that was it.
+
+
+### Day 33: March 13th, 2017 
+
+**Today's Progress**: Attempting to overlay and "Play" button on the online users. So that it is intuative to click to add the current stream of user to my app.
+
+**Thoughts:**: The overlay is not as easy as I would have expected.....
+
+
+
+### Day 34: March 14th, 2017 
+
+**Today's Progress**: I have got the test user to be able to go grab his current stream and show that stream at the top of the frame. 
+
+**Thoughts:** Since it is an iframe code it is not responsive. But the streaming does work well. 
+
+
+### Day 35: March 15th, 2017 
+
+**Today's Progress**: Changed the code to allow the updating of cover and logo for each user. One of the users had changed his cover image so it didn't have cover image on my app any more. Now I am able to grab the latest dynamically
+
+**Thoughts:** Another API call was able to fix this issue quite easily.
+
+
+### Day 36: March 16th, 2017 
+
+**Today's Progress**: I was able to get the inserted iframe to be responsive.
+
+**Thoughts:**A couple simple bits of css was able to make the iframe not be large than the screen on mobile devices. So now it is 75% of screen on large screens and 100% of width on mobile devices.
+
