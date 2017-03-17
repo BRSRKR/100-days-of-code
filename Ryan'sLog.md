@@ -269,3 +269,10 @@ Time to re-start. Time to do better
 
 **Thoughts:**A couple simple bits of css was able to make the iframe not be large than the screen on mobile devices. So now it is 75% of screen on large screens and 100% of width on mobile devices.
 
+
+### Day 37: March 17th, 2017 
+
+**Today's Progress**: Can't really say this is progress as nothing got accomplished and I tried 10 different ways to get this play button to overlay on the online users....
+
+**Thoughts:** Spend way too much time trying to get the play button to overlay. SMH
+
